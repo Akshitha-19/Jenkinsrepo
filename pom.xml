@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Basic project information -->
-    <groupId>com.example</groupId>
+    <groupId>org.apache.maven.plugins</groupId>
     <artifactId>Jenkinsrepo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
